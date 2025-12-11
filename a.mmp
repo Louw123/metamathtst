@@ -1,6 +1,6 @@
-$theorem test
+$theorem a
+$allowdiscouraged
 
 * test
 
-a1:: 
-qed::              |- ( t = r -> ( t = s -> r = s ) )
+qed::aksi   |- ( A said ( B said ( knave A ) ) )
