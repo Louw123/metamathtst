@@ -1,0 +1,6 @@
+$theorem test
+
+* test
+
+a1:: 
+qed::              |- ( t = r -> ( t = s -> r = s ) )
